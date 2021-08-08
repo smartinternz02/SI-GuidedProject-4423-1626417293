@@ -10,5 +10,6 @@ flaskapp.py: contains flask code used for live detection
 
 templates: contains html files used in flask application
 static: contains images used in application
+
 audio output.mp3: it is sample output by application when we show our sign
 
